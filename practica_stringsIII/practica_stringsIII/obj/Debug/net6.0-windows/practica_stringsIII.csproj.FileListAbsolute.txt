@@ -1,0 +1,17 @@
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\bin\Debug\net6.0-windows\practica_stringsIII.exe
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\bin\Debug\net6.0-windows\practica_stringsIII.deps.json
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\bin\Debug\net6.0-windows\practica_stringsIII.runtimeconfig.json
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\bin\Debug\net6.0-windows\practica_stringsIII.dll
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\bin\Debug\net6.0-windows\practica_stringsIII.pdb
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.csproj.AssemblyReference.cache
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.Form1.resources
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.csproj.GenerateResource.cache
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.AssemblyInfoInputs.cache
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.AssemblyInfo.cs
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.csproj.CoreCompileInputs.cache
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.dll
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\refint\practica_stringsIII.dll
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.pdb
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\practica_stringsIII.genruntimeconfig.cache
+C:\Users\MaxiPC\source\repos\practica_stringsIII\practica_stringsIII\obj\Debug\net6.0-windows\ref\practica_stringsIII.dll
